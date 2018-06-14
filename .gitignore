@@ -1,0 +1,5 @@
+.idea/
+cifar-10/
+model/
+log/
+__pycache__/
